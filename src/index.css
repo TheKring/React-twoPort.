@@ -1,0 +1,25 @@
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:'Courier New',
+    monospace;
+}
+
+body {
+   background-image: url(https://i.ibb.co/jMt55nk/square-Angle.png);
+   height: 100%;
+   background-position: center;
+   background-size: cover;
+}  
+
+
+
